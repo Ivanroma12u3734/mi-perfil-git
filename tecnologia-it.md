@@ -8,3 +8,6 @@ Me gustaría contenerizar una aplicación web con su base de datos.
 
 ## ¿Por qué me interesa?
 Me interesa porque permite que mi software funcione igual en cualquier computadora.
+
+## ¿Qué necesito aprender primero?
+Necesito reforzar Linux básico, redes y el uso de la terminal.
